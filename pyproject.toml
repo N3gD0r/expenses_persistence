@@ -4,4 +4,4 @@ build-backend = "setuptools.build_meta"
 
 [tools.setuptools]
 name = "expenses_persistence"
-version = "0.0.4"
+version = "0.0.1"
